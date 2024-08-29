@@ -4,7 +4,7 @@
 
 * Pillow
 * matplotlib
-* python3-tk (not available via pip)
+* python3-tk (not available via pip - it's Tkinter - not tensorkit)
 
 ### Installation
 
