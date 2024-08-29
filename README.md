@@ -15,3 +15,6 @@
 * go into the cloned repo `cd rigol-ds1000z-live`
 * edit rigol.py to reflect the IP of your oscilloscope
 * launch `python3 rigol.py`
+
+
+![image](https://github.com/user-attachments/assets/6a86a8cb-d0c9-4dce-9734-5d7875fbdacf)
