@@ -4,6 +4,8 @@ import io
 import struct
 import tkinter as tk
 
+print("\x1B]0;Rigol\x07", end='', flush=True)
+
 # Function to get live BMP data using a socket connection
 def get_live_bmp_stream():
     host = '192.168.222.2'
